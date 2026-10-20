@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dvdjtqf53wsma"
+
+[deps]
+
+files=["res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.device.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.gpu.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.renderer.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.xr.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.topic.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.backend.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.quality.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.workload.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.points.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.frames.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.fps.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.mean.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.p50.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.p95.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.p99.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.max.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.over.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.gpu.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.compute.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.cpu.translation"]
+
+source_file="res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.csv"
+dest_files=["res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.device.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.gpu.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.renderer.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.xr.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.topic.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.backend.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.quality.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.workload.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.points.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.frames.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.fps.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.mean.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.p50.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.p95.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.p99.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.max.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.over.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.gpu.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.compute.translation", "res://benchmarks/benchmark_desktop_2026-10-10T14-34-52.cpu.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

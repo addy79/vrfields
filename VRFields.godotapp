@@ -1,0 +1,3 @@
+#!/bin/bash
+# Launch VRFields (desktop mode; uses OpenXR if a headset runtime is present).
+exec godot --path "$(dirname "$(realpath "$0")")" "$@"

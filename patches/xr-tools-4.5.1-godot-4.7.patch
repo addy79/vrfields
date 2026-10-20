@@ -1,0 +1,24 @@
+diff --git a/addons/godot-xr-tools/functions/function_teleport.gd b/addons/godot-xr-tools/functions/function_teleport.gd
+index 01ce5dc..219a1ab 100644
+--- a/addons/godot-xr-tools/functions/function_teleport.gd
++++ b/addons/godot-xr-tools/functions/function_teleport.gd
+@@ -382,6 +382,7 @@ func _property_can_revert(property : StringName) -> bool:
+ func _property_get_revert(property : StringName): # Variant
+ 	if property == "player_material":
+ 		return _DefaultMaterial
++	return null
+ 
+ 
+ # Set enabled property
+diff --git a/addons/godot-xr-tools/objects/viewport_2d_in_3d.gd b/addons/godot-xr-tools/objects/viewport_2d_in_3d.gd
+index e9a40a9..69aecf7 100644
+--- a/addons/godot-xr-tools/objects/viewport_2d_in_3d.gd
++++ b/addons/godot-xr-tools/objects/viewport_2d_in_3d.gd
+@@ -264,6 +264,7 @@ func _property_get_revert(property : StringName): # Variant
+ 			return false
+ 		"filter":
+ 			return true
++	return null
+ 
+ 
+ # When the scene_node changes, update the property list
